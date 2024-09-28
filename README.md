@@ -1,2 +1,1 @@
-# hello-world
-Este repositório é para praticar o fluxo do GitHub. / "This repository is for practicing the GitHub flow."
+Eu sou iniciante na área da programação e busco minha primeira vaga para dar o start na minha carreira.
